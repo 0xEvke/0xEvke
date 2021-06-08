@@ -8,12 +8,14 @@ Web Dev:
 - SQL 
 - PHP 
 - Node.js, Express
+
 Programming Languages:
 - Python
 - C && C++
 - Java
 - Javascript
 - C#
+
 Tools I use in Penetration Testing:
 - Burp Suite
 - Gobuster
