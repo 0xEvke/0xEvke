@@ -19,12 +19,13 @@ Programming Languages:
 
 Tools I use in Penetration Testing:
 - Burp Suite
-- Gobuster
-- Wfuzz
-- Sublist3r
+- gobuster
+- wfuzz
+- sublist3r
 - nmap
-- Sqlmap
+- sqlmap
 - Wpscan
 - Wappalyzer
 - wafw00f
 - netcat
+- hydra
