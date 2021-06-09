@@ -18,6 +18,9 @@ Programming Languages:
 - Javascript
 - C#
 
+Penetration Testing:
+<img src="http://www.hackthebox.eu/badge/image/520706" alt="Hack The Box">
+
 Tools I use in Penetration Testing:
 - Burp Suite
 - gobuster
