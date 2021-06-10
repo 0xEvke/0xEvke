@@ -21,7 +21,7 @@ Programming Languages:
 Penetration Testing:
 
 <img src="http://www.hackthebox.eu/badge/image/520706" alt="Hack The Box">
-<img src="https://tryhackme-badges.s3.amazonaws.com/ItsEvke.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/253881"></script>
 
 Tools I use in Penetration Testing:
 - Burp Suite
