@@ -29,7 +29,7 @@ Tools I use in Penetration Testing:
 - sublist3r
 - nmap
 - sqlmap
-- Wpscan
+- wpscan
 - Wappalyzer
 - wafw00f
 - netcat
