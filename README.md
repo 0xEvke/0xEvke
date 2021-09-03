@@ -34,3 +34,4 @@ Tools I use in Penetration Testing:
 - wafw00f
 - netcat
 - hydra
+- ffuf
