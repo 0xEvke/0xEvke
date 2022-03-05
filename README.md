@@ -13,8 +13,7 @@ Web Dev:
 
 Programming Languages:
 - Python
-- C && C++
-- Java
+- C
 - Javascript
 - C#
 
