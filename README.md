@@ -7,7 +7,8 @@ Web Dev:
 - React.js 
 - HTML 
 - CSS 
-- SQL 
+- SQL
+- MongoDB
 - PHP 
 - Node.js, Express
 
